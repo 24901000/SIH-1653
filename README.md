@@ -1,26 +1,61 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 06.03.25
+## Register Number: 212224110011
+## Name: B.Barkavi
 ## Problem Title
-SIH 1653: Web based Selector-Applicant Simulation Software
+SIH 1653: healthcare and wellbeing
 ## Problem Description
-Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence carries out interviews for applications received against advertised vacancies and for promotion to next higher grade for scientific manpower inducted within DRDO. Description: The process of interviewing is a challenging task. An unbiased objective interviewing process helps identify the right talent. The basic process of an interview involves posing a set of questions by an interviewer and thereafter evaluating responses from candidates. Thus, the questions asked should be relevant and match the area/ expertise of the applicant and the responses should also be of relevance w.r.t. the question asked. Expected Solution: The proposed solution should provide experts as well as candidates a real life Board Room experience, starting with initial ice-breaking questions leading to in-depth techno-managerial (depending on the level of candidate) questions. It shall also be able to provide a quantifiable score for experts as well as the candidate for the relevancy of questions w.r.t. the area/ expertise of the applicant. Similarly, candidate responses should also be graded for relevancy w.r.t. the question asked, finally assisting in arriving at an overall score for the subject knowledge of the candidate and thus his/ her suitability against the advertised post.
+
+
+Healthcare and well-being are essential aspects of human life, encompassing the physical, mental, and social dimensions of health. Healthcare refers to the organized provision of medical services aimed at diagnosing, treating, and preventing diseases and injuries. It includes primary care, which focuses on routine check-ups, vaccinations, and general health maintenance; secondary care, which involves specialized treatments like cardiology and dermatology; and tertiary care, which provides advanced medical interventions such as organ transplants and cancer treatment. Public health initiatives, including disease control programs, sanitation improvements, and health education, play a crucial role in promoting healthcare at the community level. Additionally, mental health services, including therapy and psychiatric care, are integral to overall well-being, ensuring emotional and psychological stability. A well-functioning healthcare system, whether public, private, or a mix of both, is fundamental in improving life expectancy, reducing disease burdens, and enhancing quality of life.
+
 
 ## Problem Creater's Organization
-Ministry of Defence
+
+
+Ministry of healthcare
 
 ## Idea
 
+Healthcare:
 
+
+Focuses on diagnosing, treating, and preventing diseases.
+Includes hospitals, clinics, doctors, nurses, and medical professionals.
+Covers primary (routine check-ups), secondary (specialized care), and tertiary (advanced treatments) healthcare services.
+Emphasizes preventive care such as vaccinations, screenings, and disease management.
+Access to quality healthcare improves life expectancy and quality of life.
+Public health initiatives, like sanitation and disease control, enhance community health.
+
+
+Well-Being:
+
+
+A holistic concept that includes physical, mental, emotional, and social health.
+Physical well-being requires proper nutrition, exercise, and sleep.
+Mental well-being involves stress management, emotional resilience, and mental health support.
+Social well-being is influenced by relationships, community engagement, and social support.
+Financial and occupational well-being contribute to stability and life satisfaction.
+Spiritual well-being fosters a sense of purpose and inner peace.
 ## Proposed Solution / Architecture Diagram
 
+![Screenshot (187)](https://github.com/user-attachments/assets/741eac56-a62f-4948-ba89-5b5682008c73)
 
 ## Use Cases
 
+![Screenshot (188)](https://github.com/user-attachments/assets/04397b31-b050-40a7-9ccf-1c5cbe2a78e8)
 
 ## Technology Stack
 
+Frontend
+Backend
+ Database & Data Management
+ Cloud & Infrastructure
 
 ## Dependencies
 
+Mapping service- 20 days
+
+Data collection- 20 days
+
+budget- rs.100,000
